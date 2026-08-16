@@ -13,7 +13,6 @@
 
 - 🔭 Building technological solutions for agriculture, with **Ladini** (an AgriTech marketplace powered by autonomous AI agents and hybrid RAG pipelines) as a concrete example[cite: 2].
 - 🌱 Deepening my knowledge in **Reinforcement Learning** and autonomous multi-agent systems.
-- 💬 Ask me about **Java, Spring Boot, Python, FastAPI, and Agentic AI**[cite: 2].
 - 📫 How to reach me: idoefraim06@gmail.com
 
 ---
