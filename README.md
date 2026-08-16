@@ -11,17 +11,21 @@
   </a>
 </p>
 
-- 🔭 Building technological solutions for agriculture, with **Ladini** (an AgriTech marketplace powered by autonomous AI agents and hybrid RAG pipelines).
-- 🌱 Deepening my knowledge in **Reinforcement Learning** and autonomous multi-agent systems.
-- 💬 Ask me about **Java, Spring Boot, Python, FastAPI, and Agentic AI**.
+- 🔭 Building technological solutions for agriculture, with **Ladini** (an AgriTech marketplace powered by autonomous AI agents and hybrid RAG pipelines) as a concrete example[cite: 2, 3].
+- 🌱 Deepening my knowledge in **Reinforcement Learning** and autonomous multi-agent systems[cite: 3].
+- 💬 Ask me about **Java, Spring Boot, Python, FastAPI, and Agentic AI**[cite: 2, 3].
 - 📫 How to reach me: idoefraim06@gmail.com
 
 ---
 
 ### AI & Core Stack:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,spring,pytorch,tensorflow,docker,aws,postgresql,mongodb,redis,nextjs,flutter" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,java,spring,pytorch,tensorflow,docker,aws,postgresql,mongodb,redis,nextjs,angular,flutter" alt="Tech Stack" />
 </p>
 
 ---
 
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IDOEFRAIM&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Efraim's GitHub Stats" />
+</p>
