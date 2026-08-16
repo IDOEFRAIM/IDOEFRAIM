@@ -11,9 +11,9 @@
   </a>
 </p>
 
-- 🔭 Building technological solutions for agriculture, with **Ladini** (an AgriTech marketplace powered by autonomous AI agents and hybrid RAG pipelines).
+- 🔭 Building technological solutions for agriculture, with **Ladini** (an AgriTech marketplace powered by autonomous AI agents and hybrid RAG pipelines) as a concrete example[cite: 2].
 - 🌱 Deepening my knowledge in **Reinforcement Learning** and autonomous multi-agent systems.
-- 💬 Ask me about **Java, Spring Boot, Python, FastAPI, and Agentic AI**.
+- 💬 Ask me about **Java, Spring Boot, Python, FastAPI, and Agentic AI**[cite: 2].
 - 📫 How to reach me: idoefraim06@gmail.com
 
 ---
@@ -25,7 +25,11 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IDOEFRAIM&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Efraim's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IDOEFRAIM&theme=radical&hide_border=true" alt="Efraim's GitHub Streak" />
 </p>
