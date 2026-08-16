@@ -1,62 +1,46 @@
-# Hi there, I'm Efraim Marie Dieudonné IDO 👋
+# Hi 👋, I'm Efraim Marie Dieudonné IDO
 
-<p align="center">
-  <em>Preparatory Cycle Engineering Student | Technical Co-Founder & AI Architect | Software Engineer</em>
-</p>
+### Technical Co-Founder & AI Architect From Ouagadougou, Burkina Faso
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/efraim-m-d-ido-a30021276">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:idoefraim06@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gitlab&logoColor=white" alt="Email"/>
   </a>
-  <img src="https://img.shields.io/badge/Status-Building_Scalable_Tech_For_Africa-22c55e?style=for-the-badge" alt="Vision"/>
+</p>
+
+- 🔭 I’m currently in an Integrated Preparatory Cycle at ENSA Berrechid (Morocco) and heavily focused on building tech solutions for agriculture, with **Ladini** (an AgriTech marketplace powered by autonomous AI agents) as a prime example.
+- 💡 Passionate about leveraging advanced AI and distributed systems to address real-world agricultural and societal challenges across Africa.
+- 📫 How to reach me: idoefraim06@gmail.com
+
+---
+
+### Tech Stack & Skills:
+
+**Backend & Distributed Systems:**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi" alt="Backend Stack" />
+</p>
+
+**Fullstack & Mobile:**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,flutter" alt="Frontend Stack" />
+</p>
+
+**Databases & Caching:**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis" alt="Database Stack" />
+</p>
+
+**Infrastructure & Cloud:**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,aws" alt="Cloud Stack" />
 </p>
 
 ---
 
-### 🚀 About Me
-* 🌱 I'm currently  at **ENSA Berrechid, Morocco**.
-* 💡 Co-founder and Technical Lead at **Ladini**, an AgriTech marketplace incubated by Tamwilcom, featuring autonomous AI agents.
-* 💻 Passionate about building robust systems, distributed architectures, and advanced AI systems (RAG, Agentic Workflows, LLM Microservices).
-* 🌍 Born in Ouagadougou, Burkina Faso — driven by a deep commitment to engineering, science, and societal impact across Africa.
-
----
-
-### 🛠️ Tech Stack & Skills
-
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
-</p>
-
----
-
-### 📜 Certifications & Continuous Learning
-* **IBM:** Agentic AI & RAG Specialization
-* **AWS:** Generative AI and AI Agents
-* **DeepLearning.AI (Andrew Ng):** Deep Learning Specialization & Machine Learning Specialization
-
----
-
-### 🏆 Recent Highlights & Recognition
-* **3rd Place** at the Agadir Agritech Hackathon for *Ladini*.
-* Selected among top projects in the **Tech Start Program (Tamwilcom)**.
-* Official Jury Member & Honorary Guest for the Burkinabè Students Association in Morocco (ABM) Oratory Contest.
-
----
-
-### 📊 GitHub Stats
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IDOEFRAIM&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Efraim's GitHub Stats" />
