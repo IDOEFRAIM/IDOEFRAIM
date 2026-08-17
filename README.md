@@ -1,6 +1,6 @@
-# Hi 👋, I'm Efraim Marie Dieudonné IDO
+# Hi, I'm Efraim Marie Dieudonné IDO
 
-### Technical Co-Founder & AI Architect From Ouagadougou, Burkina Faso
+### Technical Co-Founder & AI Engineer From Ouagadougou, Burkina Faso
 
 <p align="left">
   <a href="https://www.linkedin.com/in/efraim-m-d-ido-a30021276">
